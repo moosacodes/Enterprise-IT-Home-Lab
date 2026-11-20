@@ -1,0 +1,19 @@
+﻿# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Secrets / local
+*.pfx
+*.key
+.env
+credentials.json
+local.settings.json
+
+# Temp generators
+_gen_*.ps1
